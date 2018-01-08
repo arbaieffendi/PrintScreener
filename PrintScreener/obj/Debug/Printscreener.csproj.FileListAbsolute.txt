@@ -1,0 +1,12 @@
+D:\Arba\Lab\Printscreener\Printscreener\bin\Debug\Printscreener.exe.config
+D:\Arba\Lab\Printscreener\Printscreener\bin\Debug\Printscreener.exe
+D:\Arba\Lab\Printscreener\Printscreener\bin\Debug\Printscreener.pdb
+D:\Arba\Lab\Printscreener\Printscreener\obj\Debug\Printscreener.csprojResolveAssemblyReference.cache
+D:\Arba\Lab\Printscreener\Printscreener\obj\Debug\Printscreener.Form1.resources
+D:\Arba\Lab\Printscreener\Printscreener\obj\Debug\Printscreener.Properties.Resources.resources
+D:\Arba\Lab\Printscreener\Printscreener\obj\Debug\Printscreener.csproj.GenerateResource.Cache
+D:\Arba\Lab\Printscreener\Printscreener\obj\Debug\Printscreener.exe
+D:\Arba\Lab\Printscreener\Printscreener\obj\Debug\Printscreener.pdb
+D:\Arba\Lab\Printscreener2\Printscreener\bin\Debug\Printscreener.exe.config
+D:\Arba\Lab\Printscreener2\Printscreener\obj\Debug\Printscreener.exe
+D:\Arba\Lab\Printscreener2\Printscreener\obj\Debug\Printscreener.pdb
